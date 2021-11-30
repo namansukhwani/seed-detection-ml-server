@@ -1,0 +1,8 @@
+Flask
+Flask-RESTful
+gunicorn
+Keras
+numpy
+tensorflow
+# h5py~=2.10.0
+# wheel~=0.35
